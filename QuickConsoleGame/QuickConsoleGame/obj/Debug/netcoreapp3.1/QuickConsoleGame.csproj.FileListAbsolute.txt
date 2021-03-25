@@ -1,0 +1,13 @@
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.exe
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.deps.json
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.runtimeconfig.json
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.runtimeconfig.dev.json
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.dll
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\bin\Debug\netcoreapp3.1\QuickConsoleGame.pdb
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.csprojAssemblyReference.cache
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.AssemblyInfoInputs.cache
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.AssemblyInfo.cs
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.dll
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.pdb
+C:\Users\wjcus\Desktop\QuickConsoleGame\QuickConsoleGame\obj\Debug\netcoreapp3.1\QuickConsoleGame.genruntimeconfig.cache
